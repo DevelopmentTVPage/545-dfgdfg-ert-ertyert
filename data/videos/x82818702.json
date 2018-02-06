@@ -16,8 +16,6 @@
     "id": "82818702",
     "loginId": "1758823",
     "entityType": "1",
-    "sortOrder": "11",
-    "entityIdParent": "83052333",
     "titleTextEncoded": "DESCENDENTS-Ovaci\u00f3n-Del-P\u00fablico-Chileno",
     "category": "",
     "duration": 26,
@@ -35,14 +33,7 @@
         "views": "0"
     },
     "transcripts": "",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-29"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-29\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null
